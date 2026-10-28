@@ -1,0 +1,6 @@
+mss>=9.0.1
+pytesseract>=0.3.10
+opencv-python>=4.9.0.80
+Pillow>=10.0.0
+keyboard>=0.13.5
+numpy>=1.26.0
